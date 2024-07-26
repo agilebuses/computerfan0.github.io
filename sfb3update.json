@@ -1,5 +1,5 @@
 {
-    "current-version": [2, 0, 0],
-    "update-message": "This file hasn't been needed as of yet.",
-    "download-url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    "current-version": [2, 0, 1],
+    "update-message": "This update fixes an oversight which allowed Lakitu's Shoe to be used outside of its intended level.",
+    "download-url": "https://drive.google.com/file/d/1rLAEqXxDlvozP_QF-giaBz0mLS3HolUn/view?usp=sharing"
 }
